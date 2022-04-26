@@ -12,7 +12,7 @@ fun main() {
 fun calculatePrice(
     itemCount: Int,
     itemPrice: Int = 100,
-    discount: Int = 100
+    discount: Int = 100,
     discountStart: Int = 1_000,
     userLevel: String = "normal"
 ): Int {
