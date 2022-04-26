@@ -29,8 +29,7 @@ Thumbs.db*
 .DS_Store*
 HELP.md
 .gradle
-build/*
-!build/reports
+build/
 
 ### STS ###
 .apt_generated
