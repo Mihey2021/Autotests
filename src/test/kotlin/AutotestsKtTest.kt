@@ -8,7 +8,6 @@ class AutotestsKtTest {
     fun calculatePrice_default() {
         //1. Arrange — подготовка данных (задание переменных).
         val itemCount = 1
-
         //2.Act — выполнение целевого действия (вызов функции).
         var result = calculatePrice(itemCount)
         //3.Assert — сравнение ожидаемого результата с фактическим.
